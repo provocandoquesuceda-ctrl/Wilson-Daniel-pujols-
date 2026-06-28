@@ -1,0 +1,125 @@
+:root {
+  --azul: #0a0f1e;
+  --azul2: #1a2333;
+  --dorado: #d4af37;
+  --blanco: #fff;
+  --gris: #aaa;
+}
+
+body {
+  font-family: 'Segoe UI', system-ui, sans-serif;
+  margin: 0;
+  background: var(--azul);
+  color: var(--blanco);
+  line-height: 1.7;
+}
+
+header {
+  padding: 70px 20px;
+  background: linear-gradient(135deg, var(--azul), var(--azul2));
+  text-align: center;
+  border-bottom: 3px solid var(--dorado);
+}
+
+.foto-perfil {
+  width: 190px;
+  height: 190px;
+  border-radius: 50%;
+  border: 4px solid var(--dorado);
+  object-fit: cover;
+  box-shadow: 0 0 25px rgba(212, 175, 55, 0.4);
+}
+
+h1 {
+  color: var(--dorado);
+  margin: 20px 0 8px;
+  font-size: 2.4em;
+}
+
+header p { 
+  color: var(--blanco); 
+  font-size: 1.1em; 
+  margin: 5px 0;
+}
+.sub { color: var(--gris); font-size: 1em; }
+
+section {
+  padding: 60px 20px;
+  max-width: 800px;
+  margin: auto;
+}
+
+h2 {
+  color: var(--dorado);
+  margin-bottom: 25px;
+  font-size: 1.8em;
+  text-align: center;
+}
+
+.ubicacion { 
+  color: var(--gris); 
+  font-weight: 600;
+  text-align: center;
+  margin-top: 15px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  background: var(--azul2);
+  margin: 12px 0;
+  padding: 18px 20px;
+  border-left: 4px solid var(--dorado);
+  border-radius: 8px;
+}
+
+.job {
+  background: var(--azul2);
+  padding: 25px;
+  margin: 20px 0;
+  border-radius: 10px;
+  border-left: 4px solid var(--dorado);
+}
+.job h3 {
+  color: var(--dorado);
+  margin: 0 0 10px;
+  font-size: 1.1em;
+}
+.job p { color: var(--gris); margin: 0; }
+
+.btn {
+  display: inline-block;
+  margin: 12px 8px;
+  padding: 16px 28px;
+  background: var(--dorado);
+  color: var(--azul);
+  text-decoration: none;
+  border-radius: 8px;
+  font-weight: 700;
+  font-size: 1em;
+  transition: 0.3s;
+}
+.btn:hover { transform: translateY(-2px); opacity: 0.9; }
+.btn.whatsapp { background: #25D366; color: #fff; }
+.btn.email { background: var(--blanco); color: var(--azul); }
+
+.contacto { text-align: center; }
+.contacto p { color: var(--gris); margin-bottom: 20px; }
+
+footer {
+  padding: 30px 20px;
+  background: #000;
+  color: var(--gris);
+  text-align: center;
+  font-size: 14px;
+  border-top: 1px solid var(--azul2);
+}
+.skills { font-size: 12px; margin-top: 8px; }
+
+@media (max-width: 600px) {
+  h1 { font-size: 1.8em; }
+  section { padding: 40px 15px; }
+}
