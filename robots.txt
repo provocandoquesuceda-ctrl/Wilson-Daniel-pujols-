@@ -1,0 +1,12 @@
+# robots.txt - Instrucciones para motores de búsqueda
+
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /*.json$
+
+# Sitemap
+Sitemap: https://provocandoquesuceda-ctrl.github.io/Wilson-Daniel-pujols-/sitemap.xml
+
+# Rastreo
+Crawl-delay: 1
