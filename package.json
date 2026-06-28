@@ -1,0 +1,23 @@
+{
+  "name": "primary",
+  "version": "1.0.0",
+  "description": "Bienvenido al portafolio web de Wilson Daniel Pujols Gerónimo, Abogado especializado en Derecho Comercial, Penal, Civil, Familia y Migratorio.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/provocandoquesuceda-ctrl/Wilson-Daniel-pujols-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/provocandoquesuceda-ctrl/Wilson-Daniel-pujols-/issues"
+  },
+  "homepage": "https://github.com/provocandoquesuceda-ctrl/Wilson-Daniel-pujols-#readme",
+  "dependencies": {
+    "@vercel/speed-insights": "^2.0.0"
+  }
+}
