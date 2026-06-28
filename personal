@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Wilson Daniel Pujols Gerónimo - Abogado RD</title>
+<meta name="description" content="Abogado UASD | Especialista en Banca Comercial, Crédito, Cobros, Penal, Civil, Familia y Migratorio. San José de Ocoa, RD">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <img src="foto-perfil.jpg" alt="Wilson Daniel Pujols Gerónimo Abogado" class="foto-perfil">
+  <h1>Wilson Daniel Pujols Gerónimo</h1>
+  <p>Abogado | Especialista en Banca Comercial y Gestión de Crédito y Cobros</p>
+  <p class="sub">Derecho Penal, Civil, Familia y Migratorio</p>
+</header>
+
+<section class="sobre-mi">
+  <h2>Sobre Mí</h2>
+  <p>
+    Abogado egresado de la Universidad Autónoma de Santo Domingo UASD, con formación complementaria en Banca Comercial y Ventas Consultivas por la Escuela Europea de Gerencia. 
+  </p>
+  <p>
+    Combino mi base jurídica con más de 6 años de experiencia en el sector financiero y comercial. Esto me permite ofrecer un enfoque integral en casos legales y gestión de negocios. 
+    Mi experiencia incluye Banca Solidaria, Ferretería Hache y Del Valle Abogados en casos de seguros.
+  </p>
+  <p class="ubicacion">📍 San José de Ocoa, República Dominicana</p>
+</section>
+
+<section class="servicios">
+  <h2>Áreas de Práctica</h2>
+  <ul>
+    <li><strong>Derecho Penal, Civil y de Familia:</strong> Juicio penal abreviado, divorcio, determinación de herederos</li>
+    <li><strong>Derecho Migratorio y Consular</strong></li>
+    <li><strong>Operaciones Aduanales</strong></li>
+    <li><strong>Análisis y Gestión de Crédito y Cobros:</strong> Recuperación de cartera, cobros legales y extrajudiciales</li>
+    <li><strong>Seguros:</strong> Representación en audiencias y reclamaciones</li>
+  </ul>
+</section>
+
+<section class="experiencia">
+  <h2>Experiencia Profesional</h2>
+  
+  <div class="job">
+    <h3>Oficial de Negocios – Agente de Cobros | Banca Solidaria · 6 años</h3>
+    <p>Gestión integral de cartera de créditos, análisis de crédito, evaluación de negocios, visitas a clientes y gestión de cobros manteniendo indicadores de mora.</p>
+  </div>
+
+  <div class="job">
+    <h3>Crédito y Cobros | Ferretería Hache</h3>
+    <p>Recuperación de cartera en mora, gestión de cobros legales, demandas en cobros y negociación de acuerdos de pago.</p>
+  </div>
+
+  <div class="job">
+    <h3>Abogado | Del Valle Abogados</h3>
+    <p>Representación legal en audiencias, casos de seguros, elaboración de documentos legales y asesoría durante todo el proceso judicial.</p>
+  </div>
+</section>
+
+<section class="formacion">
+  <h2>Formación Académica</h2>
+  <ul>
+    <li><strong>Licenciatura en Derecho</strong> - Universidad Autónoma de Santo Domingo UASD</li>
+    <li><strong>Diplomado en Banca Comercial</strong> - Escuela Europea de Gerencia</li>
+    <li><strong>Diplomado en Ventas Consultivas</strong> - Escuela Europea de Gerencia</li>
+  </ul>
+</section>
+
+<section class="contacto">
+  <h2>Contáctame Directo</h2>
+  <p>¿Necesitas asesoría legal o comercial? Hablemos sin compromiso.</p>
+  
+  <a class="btn whatsapp" href="https://wa.me/18494274782?text=Hola%20Lic.%20Wilson,%20necesito%20asesoría%20legal" target="_blank">
+    WhatsApp 849-427-4782
+  </a>
+  
+  <a class="btn email" href="mailto:wilson_jonil@hotmail.com?subject=Consulta%20Legal%20-%20Wilson%20Pujols" target="_blank">
+    wilson_jonil@hotmail.com
+  </a>
+
+</section>
+
+<footer>
+  <p>© 2026 Wilson Daniel Pujols Gerónimo | Abogado RD</p>
+  <p class="skills">Derecho Civil | Penal | Familia | Migratorio | Crédito | Cobros | Negociación</p>
+</footer>
+
+</body>
+</html>
