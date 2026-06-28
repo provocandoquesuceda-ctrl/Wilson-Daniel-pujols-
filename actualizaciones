@@ -1,0 +1,135 @@
+Rediseña completamente el sitio web profesional del Lic. Wilson Daniel Pujols Gerónimo, abogado dominicano de San José de Ocoa, RD. Crea un archivo HTML único (todo en un solo archivo: HTML, CSS y JS) moderno, elegante y completamente funcional.
+
+═══════════════════════════════════════
+INFORMACIÓN DEL PROFESIONAL
+═══════════════════════════════════════
+Nombre: Wilson Daniel Pujols Gerónimo
+Título: Abogado | Especialista en Banca Comercial y Gestión de Crédito y Cobros
+Especialidades: Derecho Penal, Civil, Familia, Migratorio, Aduanal
+Ubicación: San José de Ocoa, República Dominicana
+Universidad: UASD (Universidad Autónoma de Santo Domingo)
+Diplomados: Banca Comercial y Ventas Consultivas — Escuela Europea de Gerencia
+
+Foto de perfil: foto-perfil.jpg
+(Hombre en traje azul marino con corbata azul, pose profesional, brazos cruzados)
+
+WhatsApp: https://wa.me/18494274782?text=Hola%20Lic.%20Wilson,%20necesito%20asesoría%20legal
+Email: wilson_jonil@hotmail.com
+LinkedIn: https://www.linkedin.com/in/wilson-pujols/
+Facebook: https://www.facebook.com/profile.php?id=100093446720052
+
+═══════════════════════════════════════
+PALETA Y ESTILO VISUAL
+═══════════════════════════════════════
+Primario: Azul marino profundo (#0D1F3C)
+Acento dorado: (#D4AF37)
+Fondo claro: (#F8F7F2)
+Texto: (#1A1A2E)
+Blanco limpio: (#FFFFFF)
+
+Fuente display: 'Playfair Display' (Google Fonts) — elegante, profesional
+Fuente cuerpo: 'Inter' (Google Fonts) — legible, moderna
+
+Estética: bufete de abogados de alto nivel — minimalista con toques dorados, sin excesos decorativos.
+
+═══════════════════════════════════════
+SECCIONES REQUERIDAS
+═══════════════════════════════════════
+
+1. NAVBAR FIJA
+   - Logo: "WDP Legal" con acento dorado en "WDP"
+   - Links: Inicio | Servicios | Experiencia | Galería | Contacto
+   - Fondo transparente que se vuelve sólido azul marino al hacer scroll
+   - Botón "Consulta Gratis" que va al WhatsApp
+
+2. HERO
+   - Fondo: gradiente azul marino oscuro con textura sutil de líneas diagonales
+   - Foto circular de foto-perfil.jpg con borde dorado animado (pulso suave)
+   - Texto animado con efecto typewriter: "Abogado · Analista de Crédito · Asesor Legal"
+   - Badges flotantes: "6+ años experiencia", "UASD", "San José de Ocoa"
+   - Dos botones CTA: "Contactar por WhatsApp" (verde) y "Ver Servicios" (outline dorado)
+
+3. SOBRE MÍ
+   - Dos columnas: izquierda texto, derecha tarjetas de estadísticas animadas
+   - Stats con conteo animado al hacer scroll: "6+ Años", "3 Firmas", "2 Diplomados", "100% Dedicación"
+   - Texto describiendo su perfil combinando derecho y finanzas
+
+4. ÁREAS DE PRÁCTICA (SERVICIOS)
+   - Grid de 6 tarjetas con hover effect (elevación suave, borde dorado)
+   - Íconos SVG para cada área:
+     ⚖️ Derecho Penal, Civil y Familia
+     🌍 Derecho Migratorio y Consular
+     🚢 Operaciones Aduanales
+     💳 Análisis y Gestión de Crédito y Cobros
+     🛡️ Seguros y Reclamaciones
+     🏦 Banca Solidaria y Microfinanzas
+
+5. EXPERIENCIA PROFESIONAL (TIMELINE VERTICAL)
+   - Línea de tiempo con punto dorado
+   - Tarjeta 1: Oficial de Negocios – Agente de Cobros | Banca Solidaria · 6 años
+   - Tarjeta 2: Crédito y Cobros | Ferretería Hache
+   - Tarjeta 3: Abogado | Del Valle Abogados
+   - Animación: las tarjetas aparecen con slide desde la izquierda al hacer scroll
+
+6. FORMACIÓN ACADÉMICA
+   - Tres tarjetas horizontales con año, institución e ícono de graduación
+   - UASD — Licenciatura en Derecho
+   - Escuela Europea de Gerencia — Diplomado en Banca Comercial
+   - Escuela Europea de Gerencia — Diplomado en Ventas Consultivas
+
+7. GALERÍA DINÁMICA (ELEMENTO PRINCIPAL)
+   - Diseño tipo masonry/lightbox profesional
+   - Al hacer clic en una imagen, se abre un lightbox con navegación (← →) y tecla ESC
+   - Filtros por categoría: "Todos" | "Oficina" | "Eventos" | "Documentos"
+   - Las imágenes de ejemplo usan placeholders de Picsum o colores sólidos con texto
+     (ya que las imágenes reales las agregará Wilson más adelante)
+   - Animación de entrada tipo fade + scale al filtrar
+   - Nota: Agregar un comentario en el código indicando cómo reemplazar los placeholders
+     con imágenes reales: 
+
+8. CONTACTO
+   - Fondo azul marino
+   - Dos columnas: izquierda info + redes, derecha formulario de contacto (solo visual, sin backend)
+   - Tarjetas de contacto: WhatsApp, Email, LinkedIn, Facebook
+   - Formulario: Nombre, Email, Asunto, Mensaje, Botón "Enviar consulta"
+   - El botón de WhatsApp abre directamente el chat con mensaje predefinido
+
+9. FOOTER
+   - Logo "WDP Legal" + frase: "Derecho con visión empresarial"
+   - Links rápidos + redes sociales
+   - Copyright 2026
+
+═══════════════════════════════════════
+ANIMACIONES Y EFECTOS REQUERIDOS
+═══════════════════════════════════════
+- Smooth scroll entre secciones
+- Intersection Observer para animaciones al hacer scroll (fade-in, slide-in)
+- Hover en tarjetas de servicios: translateY(-8px) + sombra dorada
+- Borde animado pulsante en foto de perfil (keyframe CSS)
+- Typewriter effect en el subtítulo del hero (JavaScript puro)
+- Contador animado en estadísticas (conteo desde 0 al valor final)
+- Lightbox funcional para la galería con overlay oscuro
+- Navbar con cambio de fondo al scroll (scrollY > 50)
+- Botón "volver arriba" flotante que aparece al bajar la página
+
+═══════════════════════════════════════
+REQUISITOS TÉCNICOS
+═══════════════════════════════════════
+- Un solo archivo HTML con CSS y JS embebidos
+- Google Fonts cargadas desde CDN
+- Mobile-first y 100% responsive (breakpoints: 768px y 1024px)
+- Sin frameworks externos (solo HTML, CSS, JS vanilla)
+- Compatible con todos los navegadores modernos
+- Accesibilidad básica: alt en imágenes, aria-labels en botones
+- Comentarios en el código en español para que Wilson pueda editarlo fácilmente
+- Meta tags SEO: title, description, keywords, og:title, og:description
+- Favicon: usar emoji ⚖️ como favicon SVG inline
+
+═══════════════════════════════════════
+NOTAS FINALES
+═══════════════════════════════════════
+- La foto foto-perfil.jpg debe referenciarse con esa ruta exacta (estará en la misma carpeta)
+- La galería debe tener al menos 8 placeholders de imágenes organizadas en el grid
+- Todo el texto debe estar en español dominicano formal
+- El diseño debe sentirse como un bufete de alto nivel, no como una plantilla genérica
+- Priorizar elegancia y confianza sobre colorido o efectos excesivos
