@@ -5,11 +5,34 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Wilson Daniel Pujols Gerónimo - Abogado RD</title>
 <meta name="description" content="Abogado UASD | Especialista en Banca Comercial, Crédito, Cobros, Penal, Civil, Familia y Migratorio. San José de Ocoa, RD">
+<meta name="keywords" content="abogado, derecho, legal, República Dominicana, San José de Ocoa">
+<meta name="author" content="Wilson Daniel Pujols Gerónimo">
+<link rel="manifest" href="manifest.json">
+<link rel="apple-touch-icon" href="foto-perfil.jpg">
+<meta name="theme-color" content="#d4af37">
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
-<header>
+<nav class="navbar">
+  <div class="nav-container">
+    <a href="index.html" class="logo">WDP Legal</a>
+    <ul class="nav-menu">
+      <li><a href="#inicio" class="nav-link">Inicio</a></li>
+      <li><a href="#servicios" class="nav-link">Servicios</a></li>
+      <li><a href="#experiencia" class="nav-link">Experiencia</a></li>
+      <li><a href="#contacto" class="nav-link">Contacto</a></li>
+      <li><a href="todo.html" class="nav-link nav-tool">📋 Mis Tareas</a></li>
+    </ul>
+    <div class="hamburger">
+      <span></span>
+      <span></span>
+      <span></span>
+    </div>
+  </div>
+</nav>
+
+<header id="inicio">
   <img src="foto-perfil.jpg" alt="Wilson Daniel Pujols Gerónimo Abogado" class="foto-perfil">
   <h1>Wilson Daniel Pujols Gerónimo</h1>
   <p>Abogado | Especialista en Banca Comercial y Gestión de Crédito y Cobros</p>
@@ -28,7 +51,7 @@
   <p class="ubicacion">📍 San José de Ocoa, República Dominicana</p>
 </section>
 
-<section class="servicios">
+<section class="servicios" id="servicios">
   <h2>Áreas de Práctica</h2>
   <ul>
     <li><strong>Derecho Penal, Civil y de Familia:</strong> Juicio penal abreviado, divorcio, determinación de herederos</li>
@@ -39,7 +62,7 @@
   </ul>
 </section>
 
-<section class="experiencia">
+<section class="experiencia" id="experiencia">
   <h2>Experiencia Profesional</h2>
   
   <div class="job">
@@ -67,24 +90,35 @@
   </ul>
 </section>
 
-<section class="contacto">
+<section class="contacto" id="contacto">
   <h2>Contáctame Directo</h2>
   <p>¿Necesitas asesoría legal o comercial? Hablemos sin compromiso.</p>
   
   <a class="btn whatsapp" href="https://wa.me/18494274782?text=Hola%20Lic.%20Wilson,%20necesito%20asesoría%20legal" target="_blank">
-    WhatsApp 849-427-4782
+    📱 WhatsApp 849-427-4782
   </a>
   
   <a class="btn email" href="mailto:wilson_jonil@hotmail.com?subject=Consulta%20Legal%20-%20Wilson%20Pujols" target="_blank">
-    wilson_jonil@hotmail.com
+    ✉️ wilson_jonil@hotmail.com
   </a>
 
+  <div class="social-links">
+    <a href="https://www.linkedin.com/in/wilson-pujols/" target="_blank" class="social-btn">LinkedIn</a>
+    <a href="https://www.facebook.com/profile.php?id=100093446720052" target="_blank" class="social-btn">Facebook</a>
+  </div>
 </section>
 
 <footer>
   <p>© 2026 Wilson Daniel Pujols Gerónimo | Abogado RD</p>
   <p class="skills">Derecho Civil | Penal | Familia | Migratorio | Crédito | Cobros | Negociación</p>
+  <p class="footer-tech">Sitio web desarrollado con HTML5, CSS3 y JavaScript | Alojado en GitHub Pages</p>
+  <p style="margin-top: 15px; font-size: 12px;">
+    <a href="PRIVACIDAD.md" style="color: #d4af37; text-decoration: none;">Privacidad</a> | 
+    <a href="TERMINOS.md" style="color: #d4af37; text-decoration: none;">Términos</a> | 
+    <a href="GUIA_USO.md" style="color: #d4af37; text-decoration: none;">Guía de Uso</a>
+  </p>
 </footer>
 
+<script src="script.js"></script>
 </body>
 </html>
