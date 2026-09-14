@@ -1,4 +1,4 @@
-# Guía de Uso - Wilson Daniel Pujols
+# Guía de Uso - Wilson Pujols
 
 ## 📖 Cómo Usar el Portafolio
 
@@ -97,8 +97,8 @@
 
 ## 📞 Soporte
 
-- **Email:** wilson_jonil@hotmail.com
-- **WhatsApp:** 849-427-4782
+- **Email:** geronimo1636@omail.com
+- **WhatsApp:** 829-674-5162
 
 ## ✨ Próximamente
 

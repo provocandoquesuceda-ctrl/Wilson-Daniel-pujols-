@@ -1,8 +1,8 @@
 # Términos y Condiciones
 
-## Wilson Daniel Pujols - Portafolio Profesional
+## Wilson Pujols - Portafolio Profesional
 
-**Última actualización:** Junio 28, 2026
+**Última actualización:** Septiembre 14, 2026
 
 ### 1. Aceptación de Términos
 
@@ -59,8 +59,8 @@ Estos términos se rigen por las leyes de República Dominicana.
 
 ### 10. Contacto
 
-**Email:** wilson_jonil@hotmail.com
-**WhatsApp:** 849-427-4782
+**Email:** geronimo1636@omail.com
+**WhatsApp:** 829-674-5162
 
 ---
 
