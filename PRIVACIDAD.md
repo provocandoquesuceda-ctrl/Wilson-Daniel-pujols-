@@ -1,8 +1,8 @@
 # Política de Privacidad
 
-## Wilson Daniel Pujols - Portafolio Profesional
+## Wilson Pujols - Portafolio Profesional
 
-**Última actualización:** Junio 28, 2026
+**Última actualización:** Septiembre 14, 2026
 
 ### 1. Introducción
 
@@ -98,19 +98,19 @@ Tienes derecho a:
 
 ### 10. Cambios en esta Política
 
-Nos reservamos el derecho de actualizar esta política en cualquier momento. 
+Nos reservamos el derecho de actualizar esta política en cualquier momento.
 
 - Los cambios significativos se notificarán
 - Continuando el uso implica aceptación
-- Última revisión: Junio 28, 2026
+- Última revisión: Septiembre 14, 2026
 
 ### 11. Contacto
 
 Si tienes preguntas o inquietudes sobre privacidad:
 
-**Email:** wilson_jonil@hotmail.com
-**WhatsApp:** 849-427-4782
-**Ubicación:** San José de Ocoa, República Dominicana
+**Email:** geronimo1636@omail.com
+**WhatsApp:** 829-674-5162
+**Ubicación:** SAN JOSÉ DE OCOA, República Dominicana
 
 ### 12. Cumplimiento Legal
 
@@ -125,4 +125,4 @@ Este sitio cumple con:
 
 Al usar este sitio web, aceptas esta Política de Privacidad. Si no estás de acuerdo, por favor no uses el sitio.
 
-**Última actualización: Junio 28, 2026**
+**Última actualización: Septiembre 14, 2026**
